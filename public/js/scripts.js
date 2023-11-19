@@ -15,7 +15,7 @@ function calcular(){
         document.getElementById('resultado').innerHTML = eval(resultado);
 
     }else{
-        document.getElementById('resultado').innerHTML = "Nada para Calcular";
+        document.getElementById('resultado').innerHTML = "Nada para calcular";
     }
 }
 
